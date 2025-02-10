@@ -1,1 +1,1 @@
-# competitive-programming-debug-file
+# DEBUG FILE FOR C++
